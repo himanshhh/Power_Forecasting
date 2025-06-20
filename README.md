@@ -44,7 +44,7 @@ This project focuses on forecasting power consumption across three energy zones 
 - **Autocorrelation Plots**: Exhibited slow decay indicating long memory in all zones.
 - **ACF Plots**: Strong autocorrelation at 144-lag intervals, confirming daily seasonality.
 
-![image1](TS1.png)
+![image1](TS1.PNG)
 ---
 
 ## 🧠 Modeling Approaches
@@ -64,7 +64,7 @@ This project focuses on forecasting power consumption across three energy zones 
   - Zone 2: 286.00
   - Zone 3: 2327.93 ❌
 
-![image2](TS2.png)
+![image2](TS2.PNG)
 
 ### 3. 🌐 SARIMA Model (Zone 3 Only)
 - Improved performance by accounting for seasonality.
@@ -89,7 +89,7 @@ This project focuses on forecasting power consumption across three energy zones 
   - Zone 2: 285.55
   - Zone 3: 248.55 ✅
 
-![image3](TS3.png)
+![image3](TS3.PNG)
 
 ---
 
